@@ -1,7 +1,6 @@
 return {
   {
     'goolord/alpha-nvim',
-    branch = 'feature/startify-fortune',
     dependencies = {
       'BlakeJC94/alpha-nvim-fortune', -- Fortune plugin for the footer
     },
